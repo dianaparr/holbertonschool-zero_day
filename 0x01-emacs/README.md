@@ -8,3 +8,4 @@
 3. *What is the command to paste?*
 4. *What is the command to search forward?*
 5. *What is the command to undo?*
+6. *What is the command to quit Emacs?*
