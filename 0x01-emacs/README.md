@@ -6,3 +6,4 @@
 1. *What is the command to save a file?*
 2. *What is the command to cut an entire line?*
 3. *What is the command to paste?*
+4. *What is the command to search forward?*
