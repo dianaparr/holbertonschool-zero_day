@@ -1,6 +1,6 @@
 # Holberton School
 
-##Zero Day
+## Zero Day
 
 This is the *first* repository I've made with **Git** and **GitHub**.
 
