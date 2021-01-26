@@ -8,3 +8,4 @@
 3. *What is the command to undo what you just did?*
 4. * What is the command to quit vi even though latest changes have not been saved for this vi call?*
 5. *What is the command to move the cursor to the start of the current line?*
+6. *What is the command to move the cursor to the end of the line?*
