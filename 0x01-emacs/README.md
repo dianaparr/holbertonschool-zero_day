@@ -7,3 +7,4 @@
 2. *What is the command to cut an entire line?*
 3. *What is the command to paste?*
 4. *What is the command to search forward?*
+5. *What is the command to undo?*
