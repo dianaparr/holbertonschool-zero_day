@@ -4,3 +4,5 @@
 
 0. *What is the command to insert text before the cursor?*
 1. *What is the command to delete and cut the current line?*
+2. *What is the command to paste the lines in the buffer into the text after the current line?*
+
